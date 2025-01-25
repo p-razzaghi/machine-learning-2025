@@ -1,6 +1,6 @@
 # Machine Learning (Winter 2025)
 
-![IASBS Logo](./university_logo.png)
+![IASBS Logo](./logo.png)
 
 Welcome to the repository for the **Machine Learning** course offered in Winter 2025 at the **Institute for Advanced Studies in Basic Sciences (IASBS)**.
 

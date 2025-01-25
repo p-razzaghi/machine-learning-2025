@@ -25,7 +25,7 @@ The exercises for the course, provided as PDFs, are available in this folder.
 - [Exercises](./Exercises/)
 
 ## Course Videos
-The videos of the course are available on [YouTube](https://youtube.com/something).
+The videos of the course are available on [YouTube](https://www.youtube.com/@ParvinRazzaghi).
 
 ---
 

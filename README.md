@@ -1,39 +1,32 @@
-# Machine Learning - Winter 2025
+# Machine Learning (Winter 2025)
 
-Welcome to the repository for the **Machine Learning** course offered during Winter 2025 at the **Institute for Advanced Studies in Basic Sciences**. This repository contains all the materials used in the course, including slides and related codes.
+![IASBS Logo](./university_logo.png)
 
----
+Welcome to the repository for the **Machine Learning** course offered in Winter 2025 at the **Institute for Advanced Studies in Basic Sciences (IASBS)**.
 
 ## Instructor
-- **Par Razan**
-
----
+**Parvin Razzaghi**
 
 ## Course Resources
 
-### Videos
-All course videos are available on the [YouTube channel](https://youtube.com/something).
+### Slides
+This folder contains the main lecture slides along with any accompanying code used during the sessions.
+
+- [Slides Folder](./Slides/)
+
+### Auxiliary Slides
+Supplementary material such as auxiliary slides and any accompanying code can be found here.
+
+- [Auxiliary Slides Folder](./Auxiliary%20Slides/)
+
+### Exercises
+The exercises for the course, provided as PDFs, are available in this folder.
+
+- [Exercises Folder](./Exercises/)
+
+## Course Videos
+The videos of the course are available on [YouTube](https://youtube.com/something).
 
 ---
 
-## Repository Structure
-
-### 1. Slides
-This folder contains the main course slides along with any accompanying codes (if applicable).
-
-- **Path:** `./Slides`
-- Includes:
-  - Main lecture slides
-  - Codes associated with the slides (if any)
-
-### 2. Auxiliary Slides
-This folder contains auxiliary materials, such as supplementary slides and their associated codes (if applicable).
-
-- **Path:** `./Auxiliary_Slides`
-- Includes:
-  - Auxiliary or supplementary slides
-  - Codes associated with auxiliary materials (if any)
-
----
-
-For any questions, please contact the instructor or raise an issue in the repository. Happy learning!
+Feel free to use the materials provided in this repository for learning and reference. If you have any questions, issues, or contributions, please open an issue or create a pull request.

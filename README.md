@@ -12,17 +12,17 @@ Welcome to the repository for the **Machine Learning** course offered in Winter 
 ### Slides
 This folder contains the main lecture slides along with any accompanying code used during the sessions.
 
-- [Slides Folder](./Slides/)
+- [Slides](./Slides/)
 
 ### Auxiliary Slides
 Supplementary material such as auxiliary slides and any accompanying code can be found here.
 
-- [Auxiliary Slides Folder](./Auxiliary%20Slides/)
+- [Auxiliary Slides](./Auxiliary%20Slides/)
 
 ### Exercises
 The exercises for the course, provided as PDFs, are available in this folder.
 
-- [Exercises Folder](./Exercises/)
+- [Exercises](./Exercises/)
 
 ## Course Videos
 The videos of the course are available on [YouTube](https://youtube.com/something).
